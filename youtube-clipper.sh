@@ -9,7 +9,7 @@ END="$3"
 OUTPUT_FILE="$4"
 
 # CHANGE ME!
-OUT_DIR="/Users/dhusen/Desktop/halloween-clips"
+OUT_DIR="/path/to/output/directory"
 
 # temp storage for downloaded clip
 TMP_FILE="/tmp/zzzTemp-$OUTPUT_FILE"
